@@ -23,7 +23,11 @@ MiraBrief helps you explore a more personal way to stay informed through AI-assi
 
 ## Screenshots
 
-Real screenshots of the Android app will be added here.
+<p align="center">
+  <img src="screenshots/today.jpg" width="250" alt="MiraBrief daily newspaper" />
+  <img src="screenshots/history.jpg" width="250" alt="MiraBrief briefing history" />
+  <img src="screenshots/preferences.jpg" width="250" alt="MiraBrief personal preferences" />
+</p>
 
 ## Download
 
